@@ -1,0 +1,57 @@
+¿Estas pensando en un animal?
+.
+¿Ladra?
+¿Ladra?
+¿Maulla?
+Perro
+¿Maulla?
+¿Nada?
+Gato
+¿Nada?
+¿Salta?
+¿Es un mamífero?
+¿Salta?
+¿Galopa?
+¿Tiene Verrugas?
+¿Galopa?
+.
+¿Tiene rayas?
+¿Tiene rayas?
+Caballo
+Zebra
+Caballo
+.
+.
+Zebra
+.
+.
+¿Tiene Verrugas?
+¿Tiene orejas largas?
+Sapo
+¿Tiene orejas largas?
+Rana
+Conejo
+Rana
+.
+.
+Conejo
+.
+.
+Sapo
+.
+.
+¿Es un mamífero?
+Pez
+Ballena
+Pez
+.
+.
+Ballena
+.
+.
+Gato
+.
+.
+Perro
+.
+.
